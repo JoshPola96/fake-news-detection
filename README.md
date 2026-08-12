@@ -1,5 +1,7 @@
 # Fake News Detection System
 
+> **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
+
 ## Overview
 This project implements a machine learning pipeline to classify news articles as "Real" or "Fake" using advanced NLP techniques and optimized machine learning models. The system achieves high accuracy through careful preprocessing, feature engineering, and model optimization.
 
